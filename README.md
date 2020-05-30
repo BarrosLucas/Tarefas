@@ -33,10 +33,3 @@ $ flutter run -d deviceID
 ### Delete task
 <img src="./assets/gifs/runapp2.gif" alt="App execution" width="30%">
 
-## To Do
-[X] Save the own training 
-[X] Share done training
-[X] Share done challenge
-[ ] Integration with Firebase
-[ ] Save data into SQFLite persistence
-[ ] Better UI
